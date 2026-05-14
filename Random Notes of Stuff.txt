@@ -1,0 +1,4 @@
+Some random things I think of to do in the code:
+- Using longitude and latitude create a map of transport usage or heatmap type thing.
+- add seasons and look at that
+-
